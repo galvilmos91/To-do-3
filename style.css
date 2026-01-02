@@ -18,9 +18,10 @@ h2 {
 }
 
 .header-image {
-    background-image: url(img/image2.jpg);
+    background-image: url(img/image1.jpg);
+    min-height: 300px;
     max-height: 300px;
-}
+} 
 
 .box-content {
     padding: 20px;
