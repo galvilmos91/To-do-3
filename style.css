@@ -17,6 +17,10 @@ h2 {
     margin: 40px auto;
 }
 
+h2 {
+    color: rgb(34, 185, 34);
+}
+
 .header-image {
     background-image: url(img/image1.jpg);
     min-height: 300px;
@@ -24,10 +28,18 @@ h2 {
 } 
 
 .box-content {
+    background-color: rgb(27, 73, 27);
     padding: 20px;
+    color: rgb(10, 161, 13);
 }
- 
-.furklak.furklak-2 .header-image {
+
+.furklak .box-content .details a {
+    background-color: rgb(197, 131, 0);
+    color: rgb(17, 130, 66); 
+    padding: 5px 10px;
+}
+
+.furklak-2 .header-image {
     background-image: url(img/image2.jpg);
     max-height: 300px;
 }
