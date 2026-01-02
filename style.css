@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+   background: url(img/hatter.jpg);
+   background-size: cover;
+}
+h2 {
+    margin: 0
+}
+.furklak {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;    
+    max-width: 600px;
+    width: 90%;
+    margin: 40px auto;
+}
+
+.furklak .header-image {
+    background-image: url(img/image1.jpg);
+    height: 300px;
+}
+
+.furklak .box-content {
+    padding: 20px;
+}
