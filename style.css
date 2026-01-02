@@ -10,7 +10,7 @@ h2 {
     margin: 0
 }
 .furklak {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: white;    
     max-width: 600px;
     width: 90%;
@@ -24,4 +24,9 @@ h2 {
 
 .box-content {
     padding: 20px;
+}
+
+.furklak-2 .header-image {
+    background-image: url(img/image2.jpg);
+    height: 300px;
 }
